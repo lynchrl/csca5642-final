@@ -20,7 +20,7 @@ Due to time and resource limitations, this project only scratched the surface in
 
 # Notebook Availability
 
-The notebook for the project is available [in this repository](xxx) as well as on [Kaggle](https://www.kaggle.com/code/lynchrl/csca-5642-final-project).
+The notebook for the project is available [in this repository](https://github.com/lynchrl/csca5642-final/blob/main/csca-5642-final-project.ipynb) as well as on [Kaggle](https://www.kaggle.com/code/lynchrl/csca-5642-final-project).
 
 # References
 
